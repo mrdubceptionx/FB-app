@@ -1,0 +1,7 @@
+{
+  "name": "Messenger Multi-Part Combiner & Exporter",
+  "description": "Windows XP style local batch combiner and exporter for multi-part Facebook Messenger HTML archives to Markdown and PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
